@@ -10,4 +10,7 @@ rely heavily on the availability of large amounts of data which is possible only
 low resource languages, we must rely on shared knowledge across languages and the ability of deep learning systems to finetune for specific tasks. In this project, we explore the problem
 statements of Automatic Speech Recognition and Text to Speech in detail, emphasizing working in Low Resource Languages. 
 
-## Training the TTS system for Hindi (or Marathi) - refer to TTSModelHindi.ipynb for detailed instructions 
+## Steps to Run this project 
+
+ * _Training the TTS system for Hindi (or Marathi)_ - refer to TTSModelHindi.ipynb for detailed instructions 
+ * _Demo for TTS System for Hindi (or Marathi)_ - refer to 
