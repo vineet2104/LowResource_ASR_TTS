@@ -13,4 +13,10 @@ statements of Automatic Speech Recognition and Text to Speech in detail, emphasi
 ## Steps to Run this project 
 
  * _Training the TTS system for Hindi (or Marathi)_ - refer to TTSModelHindi.ipynb for detailed instructions 
- * _Demo for TTS System for Hindi (or Marathi)_ - refer to Hindi_inference.ipynb for detailed instructions
+ * _Demo for TTS System for Hindi (or Marathi)_ - refer to TTSInferenceHindi.ipynb for detailed instructions
+ * _Training for ASR System for Swahili_ - refer to SwahiliASR.ipynb for detailed instructions
+
+
+## Results of the Project
+
+This presentation contains the overview as well as the results of the project - https://docs.google.com/presentation/d/1B1GMukRFSvsvdGES-ELk0_rRJ3dmCsK2o3qVzNmj3_4/edit?usp=sharing
