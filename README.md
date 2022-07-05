@@ -1,8 +1,5 @@
 # Automatic Speech Recognition and Text to Speech for Low Resource Languages
 
-Work Done by Vineet Bhat, under the guidance of Prof Pushpak Bhattacharyya, Department of Computer Science, IIT Bombay
-
-
 ## Abstract 
 
 Automatic Speech Recognition (ASR) and Text to Speech (TTS) research have been boosted in recent years with the development of deep learning systems. These systems
